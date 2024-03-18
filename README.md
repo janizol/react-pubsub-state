@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 
 
-``
+```
 import React, { createContext, useContext, useState } from 'react';
 
 // PubSub implementation
@@ -98,7 +98,7 @@ const App = () => {
 };
 
 export default App;
-``
+```
 
 
 This example consists of three main components:
